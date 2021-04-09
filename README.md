@@ -1,2 +1,2 @@
 # JavaFxTutorialApp
-This was a project I completed in my JavaFx class. The project was to have a main screen with three learning options. I was only able to complete two tutorials each with their own video and then questions to answer.  This is still a work in progress.
+Project built for class. Was to build a tutorial application that teaches the user and then tests the user on what they learned. The application opens up to a main menu where the user can choose to learn about colors or pets. Each lesson starts with a video of a song that the user is to watch. Once the video is completed the screen displays the test to the user about they learned in the lesson. There are 3 questions per tutorial. 
